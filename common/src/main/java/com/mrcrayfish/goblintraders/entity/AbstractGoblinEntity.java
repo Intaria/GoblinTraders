@@ -431,7 +431,7 @@ public abstract class AbstractGoblinEntity extends TraderCreatureEntity implemen
 
     private void handleDespawn()
     {
-        if(!this.hasCustomer() && --this.despawnDelay <= 0)
+        if(this.despawnDelay > 0 && !this.hasCustomer() && --this.despawnDelay == 0)
         {
             this.remove(RemovalReason.KILLED);
         }
