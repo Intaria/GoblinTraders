@@ -2,6 +2,7 @@ package com.mrcrayfish.goblintraders.entity;
 
 import net.minecraft.world.entity.AgeableMob;
 import net.minecraft.world.entity.EntityType;
+import net.minecraft.world.entity.PathfinderMob;
 import net.minecraft.world.item.trading.Merchant;
 import net.minecraft.world.level.Level;
 

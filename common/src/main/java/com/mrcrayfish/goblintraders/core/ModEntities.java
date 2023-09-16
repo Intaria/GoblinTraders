@@ -2,6 +2,7 @@ package com.mrcrayfish.goblintraders.core;
 
 import com.mrcrayfish.framework.api.registry.RegistryContainer;
 import com.mrcrayfish.framework.api.registry.RegistryEntry;
+import com.mrcrayfish.goblintraders.entity.AbstractGoblinEntity;
 import com.mrcrayfish.goblintraders.entity.GoblinTrader;
 import com.mrcrayfish.goblintraders.entity.VeinGoblinTrader;
 import com.mrcrayfish.goblintraders.util.Utils;
