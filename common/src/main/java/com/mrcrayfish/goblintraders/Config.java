@@ -2,7 +2,6 @@ package com.mrcrayfish.goblintraders;
 
 import com.mrcrayfish.framework.api.config.BoolProperty;
 import com.mrcrayfish.framework.api.config.ConfigProperty;
-import com.mrcrayfish.framework.api.config.ConfigType;
 import com.mrcrayfish.framework.api.config.DoubleProperty;
 import com.mrcrayfish.framework.api.config.FrameworkConfig;
 import com.mrcrayfish.framework.api.config.IntProperty;
